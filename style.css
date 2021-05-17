@@ -1,0 +1,30 @@
+h1{
+    color:#0066FF;
+    border:solid;
+}
+
+body{
+    background-color:#99FFCC ;
+}
+
+
+.header{
+    background-color: #befdfd ;
+    display: flex;
+    justify-content: space-between;
+}
+
+.name{
+    text-align: center;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: skyblue;
+}
+
+.top{
+    text-align: center;
+}
